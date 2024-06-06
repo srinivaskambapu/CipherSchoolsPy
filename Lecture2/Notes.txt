@@ -1,0 +1,22 @@
+Intoduction to the Data Science Workflow notes:
+1. Life Cycle Of Data Science
+    1. Understanding the problem
+        i. Define the objectives clearly
+        ii. Determine how to measure the project's success
+        iii. Identify the problem type
+    2. Gathering Relevant Data
+        i. Collect Data
+        ii. Ensure data is Relevant
+        iii. Consider the volume, variety, velocity and veracity of the data
+    3. Data Preparation & Exploratory Data Analysis
+        i. Clean the data
+        ii.  Perform Exploratory Analysis to understand the data
+        iii. Normalize or scale the data if necessary to preserve accuracy
+    4. Feauture Engineering & Feauture Extraction
+        i. Create new feautures that can help improve model performance
+        ii. Reduce dimesionality if the feature space is too large.
+        iii. Select the most important feautures to be used for modeling.
+    5. Model Building & Deployment
+        i. Choose appropriate algoriths and train models
+        ii. Validate model performance using cross validation
+        iii. Deploy the model for real time use or batch processing
