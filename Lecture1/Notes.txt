@@ -1,0 +1,17 @@
+Topic covered in Overview of Data Science And Its Importance/ Lecture 1 notes:
+1. What is Data Science?
+    Forecasting or analysing using the past Data
+2. Why Data Science?
+    The companies like zomato, microsoft and youtube storing the Data to generate the data, improve their services, analyse, forecast 
+    by using the Recommendation System, Algorithms and  Data Science
+3. Comparision of Data Science, Aritficial Intelligence, Machine Learning, Deep Learning and Math&Statistics
+    DataScience is combination or intersection of AI, ML, DL and Maths&Statistics
+    AI is superset of the ML and DL
+    ML is subset of AI
+    DL is subset of ML
+4. What is AI?
+    Aritficial Intelligence is used for decision making in real life by giving brain(not literally) to machine.
+5. What is ML?
+    Decision making based on the data we provide 
+6. What is DL?
+    Solves complex problems using neurons
