@@ -1,0 +1,4 @@
+Topics covered in lecture zero:
+1. Scope of Data Science
+2. Brief introduction to the course structure
+3. Introduction to the projects in this course
