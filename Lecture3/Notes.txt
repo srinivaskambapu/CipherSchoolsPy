@@ -1,0 +1,13 @@
+Key Skills And Tools In Data Science Notes:
+1. Major Roles in Data Domain
+    i. Data Analyst
+        Skills: SQL, Excel, Data Visualization, basic statistical knowledge.
+    ii. Data Scientist
+        Skills: Programming in Python/R, Machine learning, Advanced Statistics, Data Wrangling
+        Tools: Anaconda, Google Colab/ Jupyter, Git Version Control
+    iii. Machine learning Engineer
+        Skills: Deep learning, algorithms optimization, programming, software engineering.
+    iv. Data Engineer
+        Skills: Database management, ETL processes, big data technoligies, data pipelines.
+    v. Buisiness Intelligence Analyst
+        Skills: Data Analysis, BI Tools(Tableau, PowerBI), Buisiness knowledge. 
