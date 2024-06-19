@@ -1,0 +1,18 @@
+Anaconda Setup And Overview Notes:
+Introduction:
+    1. Anaconda is a distribution of the Python and R programming languages that aims to simplify package development in Data Science and ML apps.
+    2. It was created by Anaconda Inc(Continuum Analytics)
+Why we use Anaconda?
+    1. Simplified Package Management 
+    2. Comprehensive distribution
+    3. Environment Management
+    4. Cross-Platform Compatibility -   Windows, Linux, MacOS
+    5. Open-Source Tools- Jupyter, Spyder
+    6. Community Support
+    7. Enterprise-Ready
+    8. Ease of Use 
+What is an Environment: The directory which contains specific packages like python, R 
+Why Use Environments?
+    1. Isolate Projects
+    2. Maintain Multiple Versions
+    3. Reproducibility 
