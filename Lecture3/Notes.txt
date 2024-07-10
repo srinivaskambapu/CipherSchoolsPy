@@ -10,4 +10,4 @@ Key Skills And Tools In Data Science Notes:
     iv. Data Engineer
         Skills: Database management, ETL processes, big data technoligies, data pipelines.
     v. Buisiness Intelligence Analyst
-        Skills: Data Analysis, BI Tools(Tableau, PowerBI), Buisiness knowledge. 
+         Skills: Data Analysis, BI Tools(Tableau, PowerBI), Buisiness knowledge.
