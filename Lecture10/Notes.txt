@@ -1,0 +1,10 @@
+Practical explanation of:
+Time and date manipulations
+        date
+        day
+        edate
+        today
+        now 
+        weekday
+        hour
+        minute
