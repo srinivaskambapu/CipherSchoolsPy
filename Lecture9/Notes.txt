@@ -1,0 +1,21 @@
+Data cleaning and preparation techniques
+    Practical explanation of these:
+        Trim
+        proper
+        upper
+        lower
+        left
+        mid
+        right
+        concatenate
+        textjoin
+        split
+        if
+        iferror
+        date
+        day
+        edate
+        today
+        now 
+        weekday
+        hour

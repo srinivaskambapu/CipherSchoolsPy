@@ -1,0 +1,26 @@
+Introduction to version control
+Basics of Git
+    Key feautures
+        Snapshot
+        Branches
+        local & remote repositries
+Basic Commands: git init,git add,git commit, git status
+What is commit?
+    Creating a safe checkpoint so that you revert back
+Advanatages to version control
+    Systematic
+    Organised
+    Up to date
+Using Git for Project Management
+    Branch Management
+    Merging and Conflicts
+    Version Tracking
+Introduction to git hub
+Key feautures
+    Pull requests
+    Forks
+    Social networking feautures for developers
+What is Git lab?
+    Issue Tracking
+    CI/CD pipelines
+    merge requests

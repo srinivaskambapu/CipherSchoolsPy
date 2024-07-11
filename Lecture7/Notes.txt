@@ -1,0 +1,37 @@
+Advanced excel Introduction
+    Address of the box is denoted by using coulumn alphabet and row number
+    Some of the advanced formulas and funtions
+        sum
+        average 
+        max
+        min 
+        xlookup
+        sumproduct
+        offset
+        query
+    Data Cleaning
+        Trim
+        proper
+        upper
+        lower
+        left
+        mid
+        right
+        concatenate
+        textjoin
+        split
+        if
+        iferror
+    Time and date manipulations
+        date
+        day
+        edate
+        today
+        now 
+        weekday
+        hour
+    Transform your data with PivotTables, PivotCharts & Power Query
+         Pivot tables 
+         PivotCharts
+         Power Query
+    
