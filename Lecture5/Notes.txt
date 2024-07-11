@@ -6,4 +6,16 @@ Introduction to google colab
     No setup required
     Free access to GPUs and TPUs
     Easy sharing
-3. 
+3. How to access google colab
+    Directly through a web browser
+    Link with Google Drive for wasy file access
+4. Basic setup
+    Starting a new notebook
+    Importing libraries
+    Loading data from google drive 
+5. feautures for collaboration
+    Real time document editing similar to Google docs
+    Commenting and sharing options
+6. Best practices for team projects:
+    Managing versions
+    Sharing notebooks with team members
