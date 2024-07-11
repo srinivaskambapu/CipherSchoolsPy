@@ -1,0 +1,16 @@
+Excel macros and VBA for automation
+    Excel macros
+        Macros in Excel are like shortcuts you record to automate boring, repetitive tasks. They save you time and effort!
+    Macros Concepts
+        Excel lets you train it! You can record the things you do a lot (like formatting dates or copying stuff around) and then have it do them automatically in the future.
+    VBA (Visual Basic for Applications)
+        Excel has some amazing superpowers beyond what you see on the surface.  VBA is like a secret language that lets you give Excel even more specific instructions. You could tell Excel exactly how you want something done, every step of the way.
+    Macro vs VBA
+
+    A macro is a piece of code.
+
+    Macros are written in a programming language called VBA (Visual Basic for Applications).
+
+    VBA stands for Visual Basic for Applications, which is used in Excel, Word, PowerPoint, and other Office applications.
+
+    VBA includes an editor within Excel and Word for writing and managing macros.
