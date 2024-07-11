@@ -1,0 +1,17 @@
+Practical Implementation of 
+    Some of the advanced formulas and funtions
+        sum
+        average 
+        max
+        min 
+        xlookup
+        sumproduct
+        offset
+        query
+Symbols and their usage (: | , | ;)
+How to write formula in Excel? 
+    1. Select the cell 
+    2. Enter and equals sign so Excel knows a formula is being entered 
+    3. Using the example of the four times table In cell E3 type: =A3*C3 Press enter 
+    4. Select E3 and drag bottom right corner down to E12 
+    5. The formula has been applied to all these cells
