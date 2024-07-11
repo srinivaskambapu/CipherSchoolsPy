@@ -12,10 +12,3 @@ Data cleaning and preparation techniques
         split
         if
         iferror
-        date
-        day
-        edate
-        today
-        now 
-        weekday
-        hour
