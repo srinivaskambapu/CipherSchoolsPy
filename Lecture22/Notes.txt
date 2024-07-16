@@ -1,0 +1,49 @@
+Data Modeling and DAX Basics
+
+DAX Overview
+
+DAX, short for Data Analysis Expressions, is a powerful formula language used in Power BI, Excel Power Pivot, and Analysis Services. It enables users to create calculated columns and measures to manipulate and analyze data.
+
+Key DAX Functions
+
+1. SUM
+   Function: SUM(ColumnName)
+   Description: Calculates the total sum of numbers in a column.
+   Real-Life Scenario: Summing up total sales amounts in a sales dataset.
+
+2. COUNT
+   Function: COUNT(ColumnName)
+   Description: Counts the number of non-blank cells in a column.
+   Real-Life Scenario: Counting the number of orders placed by customers.
+
+3. IF
+   Function: IF(LogicalTest, ResultIfTrue, ResultIfFalse)
+   Description: Evaluates a condition and returns one value if true, and another if false.
+   Real-Life Scenario: Categorizing sales as "High" or "Low" based on a sales threshold.
+
+Real-Life Use Cases for DAX Functions
+
+DAX functions find applications across various domains:
+1. Sales Analysis
+2. Inventory Management
+3. Customer Insights
+4. Financial Reporting
+5. Human Resources
+6. Project Management
+7. Marketing Analysis
+8. Operational Efficiency
+
+Advantages of Using DAX Functions
+
+1. Performance Optimization: Efficient data processing.
+2. Data Manipulation: Transforming and cleaning data easily.
+3. Dynamic Calculations: Calculating on-the-fly based on user interactions.
+4. Integration: Seamlessly integrates with other Microsoft tools.
+5. Reusability: Functions can be reused across different reports.
+6. Scalability: Handles large datasets without performance degradation.
+7. Flexibility: Supports complex calculations and scenarios.
+8. User-Friendly: Intuitive syntax for easier adoption.
+9. Custom Calculations: Create tailored metrics as per business needs.
+10. Enhanced Reporting: Generates insightful reports with calculated metrics.
+
+DAX empowers analysts and data professionals to perform intricate calculations and derive meaningful insights from data across diverse business functions.
