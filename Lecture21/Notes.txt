@@ -1,0 +1,51 @@
+Creating Dashboards and Reports
+
+How to Create a Simple Dashboard
+
+Dataset used here: Global Superstore Dataset (https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
+
+Step 1: Importing Data
+1. Open Power BI: Launch the Power BI application.
+2. Get Data: Click on the 'Get Data' button in the middle left corner of the screen.
+3. Select File: In the navigation pane, select 'Files' and browse to the location of your dataset (e.g., Excel Workbook).
+4. Connect and Load: Choose your file, click the 'Connect' button, and then click 'Load' to import the data.
+
+Step 2: Explore Your Data
+1. Data View: Go to the 'Data' tab to view the tabular form of your data.
+2. Field List: On the right side, you’ll see a list of fields within the tables.
+3. Formatting: Select a table or field to perform formatting actions. You can change the datatype or format fields such as date, time, city, state, percentage value, or currency from the 'Modeling' tab.
+
+Step 3: Choose the Right Chart
+1. Field Selection: For this dashboard, we will use the fields: 'Order Date', 'Segment', 'Sales', 'Profit', and 'Region'.
+2. Card Visualization: 
+   - Select 'Card' from the visualizations section.
+   - Choose the fields you want to add from the 'Fields' section.
+   - Drag and drop the fields into the respective columns.
+   - Format the visual using the 'Format' icon.
+   - Example: Create a card to show the total sales.
+3. Pie and Donut Charts:
+   - Add a Pie Chart to show the sales by segment.
+   - Add a Donut Chart to display the profit by region.
+4. Funnel and Stacked Bar Chart:
+   - Add a Funnel Chart to show the number of orders per year.
+   - Add a Stacked Bar Chart to show sales by region proportionally.
+   - Format titles, data labels, legends, axes, plot areas, and data colors.
+
+Best Practices for an Effective Dashboard
+- Know Your Audience: Understand who will be viewing the dashboard.
+- First Glance Storytelling: Ensure the main message is clear at first glance.
+- Full Screen Usage: Utilize the full screen for a clean and uncluttered look.
+- Highlight Key Information: Make the most relevant information stand out.
+- Upper Left Placement: Place the most important information in the upper left corner.
+- Right Visualization: Choose the appropriate visualization for the data.
+- Limit Slicers and Filters: Avoid overcrowding with too many slicers and filters.
+- Round Off Numbers: Keep numbers simple and rounded for easy understanding.
+
+Common Mistakes to Avoid
+- Improper Labeling: Ensure all elements are properly labeled.
+- Overuse of Colors: Use colors sparingly and purposefully.
+- Too Many Slicers: Limit the number of slicers to avoid confusion.
+- Importing Entire Data: Import only necessary data to maintain performance.
+- Non-Essential Interactions: Eliminate interactions between visuals that do not add value.
+
+By following these steps and best practices, you can create effective and insightful dashboards in Power BI.
